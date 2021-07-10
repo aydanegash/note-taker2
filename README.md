@@ -14,6 +14,7 @@ Saved notes can be deleted.
 https://nameless-brook-20588.herokuapp.com/
 
 
-##licensed under [MIT License](LICENSE)
+## Licensed under 
+[MIT License](LICENSE)
 
 
